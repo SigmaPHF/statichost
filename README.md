@@ -1,0 +1,2 @@
+# statichost
+ForTestHost
