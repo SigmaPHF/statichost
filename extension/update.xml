@@ -2,7 +2,7 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="ppeglgnpiijhlbeffcfnbiofnpdfbcba">
     <updatecheck 
-      codebase="https://SigmaPHF.github.io/statichost/extension/kiosk_detector.crx" 
-      version="20251117.1502.0.0" />
+      codebase="https://sigmaphf.github.io/statichost/extension/kiosk_detector.crx" 
+      version="20251117.1556.0.0" />
   </app>
 </gupdate>
